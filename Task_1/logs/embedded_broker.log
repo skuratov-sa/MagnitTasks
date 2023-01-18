@@ -1,0 +1,43 @@
+17:51:53.808 [INFO]: Using Persistence Adapter: KahaDBPersistenceAdapter[E:\Users\skuratov_sa\IdeaProjects\JMS\activemq-data\localhost\KahaDB]
+17:51:53.812 [INFO]: Starting Persistence Adapter: KahaDBPersistenceAdapter[E:\Users\skuratov_sa\IdeaProjects\JMS\activemq-data\localhost\KahaDB]
+17:51:53.830 [INFO]: Starting KahaDBStore
+17:51:53.830 [INFO]: Opening MessageDatabase
+17:51:53.874 [INFO]: KahaDB is version 7
+17:51:54.111 [INFO]: Starting Temp Data Store
+17:51:54.112 [INFO]: PListStore:[E:\Users\skuratov_sa\IdeaProjects\JMS\activemq-data\localhost\tmp_storage] started
+17:51:54.112 [INFO]: Starting Job Scheduler Store
+17:51:54.112 [INFO]: Persistence Adapter successfully started
+17:51:54.343 [INFO]: Apache ActiveMQ 5.17.3 (localhost, ID:n00office4645-53281-1673880714136-0:1) is starting
+17:51:54.413 [INFO]: Connector vm://localhost?broker.persistent=false started
+17:51:54.413 [INFO]: Apache ActiveMQ 5.17.3 (localhost, ID:n00office4645-53281-1673880714136-0:1) started
+17:51:54.413 [INFO]: For help or more information please see: http://activemq.apache.org
+17:51:54.518 [INFO]: Producer_26 send: Hello Stas
+17:51:54.519 [INFO]: Consumer_23 -> Hello Stas
+17:51:54.519 [INFO]: Consumer_25 -> Hello Stas
+17:51:54.519 [INFO]: Consumer_24 -> Hello Stas
+17:51:55.438 [INFO]: Apache ActiveMQ 5.17.3 (localhost, ID:n00office4645-53281-1673880714136-0:1) is shutting down
+17:51:55.444 [INFO]: Connector vm://localhost?broker.persistent=false stopped
+17:51:55.447 [INFO]: PListStore:[E:\Users\skuratov_sa\IdeaProjects\JMS\activemq-data\localhost\tmp_storage] stopped
+17:51:55.447 [INFO]: Stopping async queue tasks
+17:51:55.447 [INFO]: Stopping async topic tasks
+17:51:55.447 [INFO]: Stopped KahaDB
+17:51:55.471 [INFO]: Apache ActiveMQ 5.17.3 (localhost, ID:n00office4645-53281-1673880714136-0:1) uptime 1.751 seconds
+17:51:55.471 [INFO]: Apache ActiveMQ 5.17.3 (localhost, ID:n00office4645-53281-1673880714136-0:1) is shutdown
+17:51:55.477 [INFO]: Using Persistence Adapter: MemoryPersistenceAdapter
+17:51:55.478 [INFO]: Starting Persistence Adapter: MemoryPersistenceAdapter
+17:51:55.478 [INFO]: Starting Temp Data Store
+17:51:55.478 [INFO]: Starting Job Scheduler Store
+17:51:55.478 [INFO]: Persistence Adapter successfully started
+17:51:55.480 [INFO]: Apache ActiveMQ 5.17.3 (embedded-broker, ID:n00office4645-53281-1673880714136-0:2) is starting
+17:51:55.481 [INFO]: Apache ActiveMQ 5.17.3 (embedded-broker, ID:n00office4645-53281-1673880714136-0:2) started
+17:51:55.481 [INFO]: For help or more information please see: http://activemq.apache.org
+17:51:55.495 [INFO]: Connector vm://embedded-broker started
+17:51:55.497 [INFO]: Successfully connected to vm://embedded-broker?create=false
+17:51:55.504 [INFO]: Successfully connected to vm://embedded-broker?create=false
+17:51:55.504 [INFO]: Successfully connected to vm://embedded-broker?create=false
+17:51:55.505 [INFO]: Successfully connected to vm://embedded-broker?create=false
+17:51:55.505 [INFO]: Successfully connected to vm://embedded-broker?create=false
+17:51:55.515 [INFO]: Producer_64 send: Hello Stas
+17:51:55.516 [INFO]: Consumer_63 -> Hello Stas
+17:51:55.516 [INFO]: Consumer_59 -> Hello Stas
+17:51:55.516 [INFO]: Consumer_61 -> Hello Stas

@@ -1,0 +1,73 @@
+17:53:30.677 [INFO]: -------------------------------------
+17:53:30.680 [INFO]: 
+Session -> SESSION_TRANSACTED
+17:53:31.453 [INFO]: Connection ID:3276eab6-b8d6-4ca2-8caf-edac044449b7:1 connected to server: amqp://localhost:5672
+17:53:31.453 [INFO]: Connection ID:58858679-b69d-4179-95a8-27d61e9e10be:1 connected to server: amqp://localhost:5672
+17:53:31.453 [INFO]: Connection ID:a7f14042-637b-4920-8814-122e30c08249:1 connected to server: amqp://localhost:5672
+17:53:31.453 [INFO]: Connection ID:f54309b3-11a9-437b-923b-e06d52d91c6e:1 connected to server: amqp://localhost:5672
+17:53:31.547 [INFO]: Producer_24 msg: Msg_0
+17:53:31.562 [INFO]: Producer_24 msg: Msg_1
+17:53:31.563 [INFO]: Producer_24 msg: Msg_2
+17:53:31.600 [INFO]: Subscriber_19 -> Msg_0
+17:53:31.600 [INFO]: Subscriber_21 -> Msg_0
+17:53:31.600 [INFO]: Subscriber_23 -> Msg_0
+17:53:31.601 [INFO]: Subscriber_19 -> Msg_1
+17:53:31.602 [INFO]: Subscriber_23 -> Msg_1
+17:53:31.603 [INFO]: Subscriber_21 -> Msg_1
+17:53:31.603 [INFO]: Subscriber_19 -> Msg_2
+17:53:31.603 [INFO]: Subscriber_23 -> Msg_2
+17:53:31.603 [INFO]: Subscriber_21 -> Msg_2
+17:53:31.687 [INFO]: -------------------------------------
+17:53:31.687 [INFO]: 
+Session -> CLIENT_ACKNOWLEDGE
+17:53:31.713 [INFO]: Connection ID:b494ec4d-c4a4-42b5-bc41-df720d2c8be1:1 connected to server: amqp://localhost:5672
+17:53:31.713 [INFO]: Connection ID:56cb11c9-60f2-4bff-84de-98f888849a5f:1 connected to server: amqp://localhost:5672
+17:53:31.713 [INFO]: Connection ID:dddbb6b0-bca8-464a-9809-bf8a50b0eb68:1 connected to server: amqp://localhost:5672
+17:53:31.718 [INFO]: Connection ID:aafe3294-9b4b-4316-847d-c202b46fc184:1 connected to server: amqp://localhost:5672
+17:53:31.719 [INFO]: Producer_40 msg: Msg_0
+17:53:31.722 [INFO]: Producer_40 msg: Msg_1
+17:53:31.724 [INFO]: Producer_40 msg: Msg_2
+17:53:31.728 [INFO]: Subscriber_23 -> Msg_0
+17:53:31.729 [INFO]: Subscriber_19 -> Msg_0
+17:53:31.730 [INFO]: Subscriber_21 -> Msg_0
+17:53:31.730 [INFO]: Subscriber_37 -> Msg_0
+17:53:31.732 [INFO]: Subscriber_35 -> Msg_2
+17:53:31.732 [INFO]: Subscriber_39 -> Msg_0
+17:53:32.702 [INFO]: -------------------------------------
+17:53:32.703 [INFO]: 
+Destination -> QUEUE
+17:53:32.738 [INFO]: Connection ID:a584071c-f7ae-4343-bdbb-e963ec180b7f:1 connected to server: amqp://localhost:5672
+17:53:32.738 [INFO]: Connection ID:67a229c7-c831-437a-b34c-69cbfc91cdcc:1 connected to server: amqp://localhost:5672
+17:53:32.741 [INFO]: Connection ID:5b109685-3751-4bfc-863a-609fe47d4397:1 connected to server: amqp://localhost:5672
+17:53:32.741 [INFO]: Connection ID:147098bd-5fd4-435c-a3cc-4f0120a94d75:1 connected to server: amqp://localhost:5672
+17:53:32.747 [INFO]: Producer_62 msg: Msg_0
+17:53:32.757 [INFO]: Subscriber_57 -> Msg_0
+17:53:32.769 [INFO]: Producer_62 msg: Msg_1
+17:53:32.773 [INFO]: Producer_62 msg: Msg_2
+17:53:32.773 [INFO]: Subscriber_59 -> Msg_1
+17:53:32.777 [INFO]: Subscriber_61 -> Msg_2
+17:53:33.717 [INFO]: -------------------------------------
+17:53:33.717 [INFO]: 
+Session -> DUPS_OK_ACKNOWLEDGE
+17:53:33.751 [INFO]: Connection ID:22e985be-de55-4cdb-8334-88542a77926f:1 connected to server: amqp://localhost:5672
+17:53:33.751 [INFO]: Connection ID:ad0c7e0c-bd86-4504-a556-adffa3151855:1 connected to server: amqp://localhost:5672
+17:53:33.751 [INFO]: Connection ID:dfe05d83-637a-481b-a3b9-cd5f6596e9e9:1 connected to server: amqp://localhost:5672
+17:53:33.758 [INFO]: Connection ID:d95ab065-ee29-4d52-bfee-6d722d0ee46d:1 connected to server: amqp://localhost:5672
+17:53:33.763 [INFO]: Producer_81 msg: Msg_0
+17:53:33.766 [INFO]: Producer_81 msg: Msg_1
+17:53:33.766 [INFO]: Subscriber_78 -> Msg_0
+17:53:33.766 [INFO]: Subscriber_80 -> Msg_0
+17:53:33.766 [INFO]: Subscriber_76 -> Msg_0
+17:53:33.769 [INFO]: Producer_81 msg: Msg_2
+17:53:34.724 [INFO]: -------------------------------------
+17:53:34.725 [INFO]: Session -> AUTO_ACKNOWLEDGE
+17:53:34.760 [INFO]: Connection ID:55494ca2-a918-4206-a6a5-13ff5eeaca17:1 connected to server: amqp://localhost:5672
+17:53:34.760 [INFO]: Connection ID:05de168c-dbb5-47ae-903c-7cfa7d9e0203:1 connected to server: amqp://localhost:5672
+17:53:34.761 [INFO]: Connection ID:b8345f27-f80f-4dab-a315-aa42279ddecc:1 connected to server: amqp://localhost:5672
+17:53:34.765 [INFO]: Producer_100 msg: Msg_0
+17:53:34.769 [INFO]: Connection ID:8d4fa518-47b2-4651-aa8a-bcd4a3fdab22:1 connected to server: amqp://localhost:5672
+17:53:34.771 [INFO]: Producer_100 msg: Msg_1
+17:53:34.772 [INFO]: Subscriber_97 -> Msg_0
+17:53:34.773 [INFO]: Producer_100 msg: Msg_2
+17:53:34.775 [INFO]: Subscriber_99 -> Msg_0
+17:53:34.780 [INFO]: Subscriber_95 -> Msg_2
