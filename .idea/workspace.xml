@@ -5,39 +5,36 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5e2124a3-1be2-406e-9b2a-3d0fc7479f82" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task_1/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task_1/activemq-data/localhost/KahaDB/db-1.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task_1/activemq-data/localhost/KahaDB/db.data" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task_1/activemq-data/localhost/KahaDB/db.redo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task_1/activemq-data/localhost/KahaDB/lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task_1/logs/embedded_broker.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task_1/logs/statistics.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task_1/logs/task_1.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task_1/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task_1/src/main/java/com/skuratov/task1/model/Producer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task_1/src/main/java/com/skuratov/task1/model/Subscriber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task_1/src/main/java/com/skuratov/task1/model/constant/TypeDestination.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task_1/src/main/java/com/skuratov/task1/util/Utils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task_1/src/main/resources/log4j2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task_1/src/test/java/com/skuratov/task1/ProducerRunnerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task_1/src/test/java/com/skuratov/task1_2/EmbeddedBrokerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task_2/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task_2/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task_2/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task_2/src/main/java/com/skuratov/springeactivewmq/SpringActiveMQApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task_2/src/main/java/com/skuratov/springeactivewmq/config/ApplicationConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task_2/src/main/java/com/skuratov/springeactivewmq/model/Publisher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task_2/src/main/java/com/skuratov/springeactivewmq/model/Subscriber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task_2/src/main/java/com/skuratov/springeactivewmq/repo/MsgRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task_2/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task_2/src/main/resources/jdbc/schemes.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_5/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_5/src/main/java/com/skuratov/xml/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_5/src/main/java/com/skuratov/xml/constants/TypeViewXml.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_5/src/main/java/com/skuratov/xml/io/CSVFileWriter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_5/src/main/java/com/skuratov/xml/io/XmlReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_5/src/main/java/com/skuratov/xml/io/XmlWriter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_5/src/main/java/com/skuratov/xml/model/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task_1/activemq-data/localhost/KahaDB/db-1.log" beforeDir="false" afterPath="$PROJECT_DIR$/Task_1/activemq-data/localhost/KahaDB/db-1.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task_1/activemq-data/localhost/KahaDB/db.data" beforeDir="false" afterPath="$PROJECT_DIR$/Task_1/activemq-data/localhost/KahaDB/db.data" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task_1/activemq-data/localhost/KahaDB/db.redo" beforeDir="false" afterPath="$PROJECT_DIR$/Task_1/activemq-data/localhost/KahaDB/db.redo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task_1/activemq-data/localhost/KahaDB/lock" beforeDir="false" afterPath="$PROJECT_DIR$/Task_1/activemq-data/localhost/KahaDB/lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task_1/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Task_1/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task_2/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task_2/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Task_2/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task_3/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task_3/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Task_3/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task_3/src/test/java/org/example/AppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task_4/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task_4/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task_4/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task_4/.idea/jpa-buddy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task_4/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task_4/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task_4/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task_4/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task_4/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Task_4/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task_4/src/test/java/com/jmx-spring/JmxApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +73,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "corretto-11",
-    "last_opened_file_path": "E:/Users/skuratov_sa/IdeaProjects/MagnitTasks/Task_2",
+    "last_opened_file_path": "E:/Users/skuratov_sa/IdeaProjects/MagnitTasks_1",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -89,25 +86,67 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Users\skuratov_sa\IdeaProjects\MagnitTasks_1" />
       <recent name="E:\Users\skuratov_sa\IdeaProjects\MagnitTasks\Task_2" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\Users\skuratov_sa\IdeaProjects\MagnitTasks\Task_1" />
     </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.SpringActiveMQApplication">
-    <configuration name="ProducerRunnerTest.runSessionAuto" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="JMS" />
+  <component name="RunManager" selected="JUnit.EmbeddedBrokerTest.runBroker">
+    <configuration name="EmbeddedBrokerTest.runBroker" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ActiveMQ" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.skuratov.task1.*" />
+          <option name="PATTERN" value="com.skuratov.task1_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.skuratov.task1" />
-      <option name="MAIN_CLASS_NAME" value="com.skuratov.task1.ProducerRunnerTest" />
-      <option name="METHOD_NAME" value="runSessionAuto" />
+      <option name="PACKAGE_NAME" value="com.skuratov.task1_2" />
+      <option name="MAIN_CLASS_NAME" value="com.skuratov.task1_2.EmbeddedBrokerTest" />
+      <option name="METHOD_NAME" value="runBroker" />
       <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MagnitTasks [clean,install,-X]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="install" />
+                <option value="-X" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="JmxApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="Task_JMX" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.skuratov.jmxProject.spring.JmxApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JmxApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="JMX" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.skuratov.jmxProject.spring.JmxApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -125,10 +164,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="JUnit.EmbeddedBrokerTest.runBroker" />
+      <item itemvalue="Maven.MagnitTasks [clean,install,-X]" />
+      <item itemvalue="Spring Boot.JmxApplication (1)" />
+      <item itemvalue="Spring Boot.JmxApplication" />
+      <item itemvalue="Spring Boot.SpringActiveMQApplication" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.EmbeddedBrokerTest.runBroker" />
         <item itemvalue="Spring Boot.SpringActiveMQApplication" />
-        <item itemvalue="JUnit.ProducerRunnerTest.runSessionAuto" />
       </list>
     </recent_temporary>
   </component>
@@ -141,10 +187,22 @@
       <option name="presentableId" value="Default" />
       <updated>1674051717364</updated>
       <workItem from="1674051718751" duration="585000" />
+      <workItem from="1674567686599" duration="4303000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+        <option value="Space.CommitStatus" />
+      </list>
+    </option>
   </component>
 </project>
